@@ -1,0 +1,16 @@
+date,category,amount,payment_method,note
+2026-01-01,Food,120,Cash,Lunch
+2026-01-02,Transport,35,Card,Bus card top-up
+2026-01-03,Food,90,Card,Dinner
+2026-01-04,Entertainment,200,Card,Cinema
+2026-01-05,Rent,3500,Bank Transfer,Monthly rent
+2026-01-06,Education,450,Card,Online course
+2026-01-07,Food,,Cash,Breakfast
+2026-01-08,Transport,50,Cash,Taxi
+2026-01-09,Shopping,700,Card,Clothes
+2026-01-10,Food,150,Card,Groceries
+2026-01-11,Entertainment,,Cash,Cafe
+2026-01-12,Education,300,Card,Books
+2026-01-13,Transport,40,Card,Metro
+2026-01-14,Shopping,250,Cash,Stationery
+2026-01-15,Food,180,Card,Groceries
